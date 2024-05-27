@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\office10.UCIONE.000\\Desktop\\Vjezba06\\Vjezba06\\Vjezba06.csproj": {}
+    "C:\\Users\\office10.UCIONE\\Desktop\\New folder\\super-octo-enigma\\Vjezba06\\Vjezba06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\office10.UCIONE.000\\Desktop\\Vjezba06\\Vjezba06\\Vjezba06.csproj": {
+    "C:\\Users\\office10.UCIONE\\Desktop\\New folder\\super-octo-enigma\\Vjezba06\\Vjezba06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\office10.UCIONE.000\\Desktop\\Vjezba06\\Vjezba06\\Vjezba06.csproj",
+        "projectUniqueName": "C:\\Users\\office10.UCIONE\\Desktop\\New folder\\super-octo-enigma\\Vjezba06\\Vjezba06.csproj",
         "projectName": "Vjezba06",
-        "projectPath": "C:\\Users\\office10.UCIONE.000\\Desktop\\Vjezba06\\Vjezba06\\Vjezba06.csproj",
-        "packagesPath": "C:\\Users\\office10.UCIONE.000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\office10.UCIONE.000\\Desktop\\Vjezba06\\Vjezba06\\obj\\",
+        "projectPath": "C:\\Users\\office10.UCIONE\\Desktop\\New folder\\super-octo-enigma\\Vjezba06\\Vjezba06.csproj",
+        "packagesPath": "C:\\Users\\office10.UCIONE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\office10.UCIONE\\Desktop\\New folder\\super-octo-enigma\\Vjezba06\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\office10.UCIONE.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\office10.UCIONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
